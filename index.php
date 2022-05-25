@@ -1,5 +1,5 @@
 <?
-echo 'phpのテストです。<br>';
+echo 'phpのテストだよ。<br>';
 
 $dbinfo = parse_url(getenv('DATABASE_URL'));
 
